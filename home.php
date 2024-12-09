@@ -10,11 +10,12 @@
     <header class="header">
         <div class="logo">🎬 MBO Cinema</div>
         <nav class="navbar">
-            <a href="#">Home</a>
-            <a href="#movies">Movies</a>
+            <a href="index.html">Home</a>
+            <a href="movies.php">Movies</a>
             <a href="#about">About</a>
             <a href="#contact">Contact</a>
         </nav>
+
     </header>
     <main>
         <section class="slideshow">
@@ -58,8 +59,8 @@
         </section>
     </main>
     <footer class="footer">
-        <p>&copy; 2024 Cinema Paradise. All Rights Reserved.</p>
+        <p>&copy; 2024 MBO Cin. All Rights Reserved.</p>
     </footer>
-    <script src="script.js"></script>
+    <script src="style.js"></script>
 </body>
 </html>
