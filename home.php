@@ -10,7 +10,7 @@
     <header class="header">
         <div class="logo">🎬 MBO Cinema</div>
         <nav class="navbar">
-            <a href="index.html">Home</a>
+            <a href="home.php">Home</a>
             <a href="movies.php">Movies</a>
             <a href="#about">About</a>
             <a href="#contact">Contact</a>
