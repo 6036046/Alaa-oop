@@ -13,7 +13,7 @@
             <a href="home.php">Home</a>
             <a href="movies.php" class="active">Movies</a>
             <a href="#about">About</a>
-            <a href="#contact">Contact</a>
+            <a href="Contact.php">Contact</a>
         </nav>
     </header>
     <main>
