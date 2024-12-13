@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movies - Cinema Paradise</title>
+    <title>Movies - MBO Cinema</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header class="header">
-        <div class="logo">🎬 Cinema Paradise</div>
+        <div class="logo">🎬 MBO Cinema</div>
         <nav class="navbar">
             <a href="home.php">Home</a>
             <a href="movies.php" class="active">Movies</a>
